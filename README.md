@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# Lizard 96
+## Aspirant Intégrateur Web - Futur Freelance
+## Technologies et Langages
+* HTML sémantique
+* CSS moderne et responsive
+* Vanilla JS (JavaScript pur si vous préférez)
 <!--
 **Lizard-96/Lizard-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
