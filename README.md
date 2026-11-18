@@ -1,4 +1,4 @@
-# Lizard 96
+# Séverin Aguilar - Alias Lizard 96
 ## Aspirant Intégrateur Web - Futur Freelance - Autodidacte
 ## Technologies et Langages
 * HTML sémantique
