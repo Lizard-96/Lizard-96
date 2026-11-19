@@ -11,7 +11,7 @@
 La création de mon image de profil a été une excellente occasion de m'exercer.<br>
 Et pour cause : je l'ai entièrement dessinée en programmant en HTML, CSS et JavaScript.<br>
 ⭐ [Un projet aussi sympa qu'utile et didactique !](https://github.com/Lizard-96/avatar-github-profile-picture) :)<br>
-➡️ [Cliquez ici pour voir un aperçu directement dans votre navigateur web](https://lizard-96.github.io/avatar-github-profile-picture/)
+▶️ [Cliquez ici pour voir un aperçu directement dans votre navigateur web](https://lizard-96.github.io/avatar-github-profile-picture/) 🌟
 <!--
 **Lizard-96/Lizard-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
