@@ -1,16 +1,16 @@
-# Séverin Aguilar - Alias Lizard 96
-## Aspirant Intégrateur Web - Futur Freelance - Autodidacte
-## Technologies et Langages
+# Séverin Aguilar - Alias 🦎 Lizard 96 🦎
+## 🚀 Aspirant Intégrateur Web - Futur Freelance - Autodidacte
+## 🧰 Technologies et Langages
 * HTML sémantique
 * CSS moderne et responsive (Flexbox - Grid)
 * Vanilla JS (JavaScript pur si vous préférez)
-## Mes Objectifs d'Apprentissage
+## 📚 Mes Objectifs d'Apprentissage
 * Initiation à Figma
 * WordPress
 ## A Propos...
 La création de mon image de profil a été une excellente occasion de m'exercer.<br>
 Et pour cause : je l'ai entièrement dessinée en programmant en HTML, CSS et JavaScript.<br>
-[Un projet aussi sympa qu'utile et didactique !](https://github.com/Lizard-96/avatar-github-profile-picture) :)
+⭐ [Un projet aussi sympa qu'utile et didactique !](https://github.com/Lizard-96/avatar-github-profile-picture) :)
 <!--
 **Lizard-96/Lizard-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
